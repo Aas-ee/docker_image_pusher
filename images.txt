@@ -28,4 +28,8 @@
 #ezdata123/ezdata:1.0.1
 #ezdata123/ezdata-web:1.0.1
 #--alias=nacos-server223 nacos/nacos-server:v2.2.3
---alias=shareopenjdk21 amazoncorretto:21
+#--alias=shareopenjdk21 amazoncorretto:21
+--alias=share-mysql57 mysql:5.7
+--alias=nacos-server251 nacos/nacos-server:v2.5.1
+--alias=share-redis729 redis:7.2.9
+--alias=share-minio202503 minio/minio:RELEASE.2025-03-12T18-04-18Z
